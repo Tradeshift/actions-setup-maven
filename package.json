@@ -25,7 +25,7 @@
     "semver": "^6.1.1"
   },
   "devDependencies": {
-    "@types/node": "^20.0.0",
+    "@types/node": "^20.12.4",
     "@types/semver": "^6.0.0",
     "husky": "^9.0.0",
     "prettier": "^3.0.0",
